@@ -25,3 +25,6 @@ https://www.berliner-mieterverein.de/magazin/online/mm0106/010610b.htm
 
 Korrigiert für 2021 mit:
 https://www.mieterbund-nrw.de/mieterservice/betriebskostenspiegel#:~:text=im%20Jahr%202021%20im%20Durchschnitt,und%20Monat%20f%C3%BCr%20Betriebskosten%20zahlten.
+
+Zum Nachvollziehen der Rechnungen empfehle ich conda (es werden nur default installierte packages verwendet):
+https://www.anaconda.com/download/success
