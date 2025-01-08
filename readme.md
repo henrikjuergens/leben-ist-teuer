@@ -3,7 +3,7 @@
 ![AnteilWohnkostenGraph](AnteilWohnkosten.jpeg)
 
 Berechnung enthält keinen Profit für die Vermieter:innen bzw. Wohnungskäufer:innen
-(In der Realität müsste der Anteil also noch höher sein).
+(in der Realität müsste der Anteil also noch höher sein).
 
 Alle Preise beziehen sich auf die Marktpreise des jeweiligen Jahres.
 
