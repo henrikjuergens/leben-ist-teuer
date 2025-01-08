@@ -1,11 +1,11 @@
 ### Wohnen ###
 
-![image info](AnteilWohnkosten.jpg)
+![AnteilWohnkostenGraph](AnteilWohnkosten.jpeg)
 
 Berechnung enthält keinen Profit für die Vermieter:innen bzw. Wohnungskäufer:innen
-(In der Realität müsste der Anteil also noch höher sein)
+(In der Realität müsste der Anteil also noch höher sein).
 
-Alle Preise beziehen sich auf die Marktpreise des jeweiligen Jahres
+Alle Preise beziehen sich auf die Marktpreise des jeweiligen Jahres.
 
 Quelle Wohnungspreise:
 https://de.statista.com/statistik/daten/studie/554954/umfrage/kaufpreise-fuer-eigentumswohnungen-aller-baujahre-in-deutschland/
