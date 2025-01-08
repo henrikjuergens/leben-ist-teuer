@@ -1,0 +1,55 @@
+Gebäudereinigung
+
+0,17 €
+
+Gartenpflege
+
+0,10 €
+
+Grundsteuer
+
+0,18 €
+
+Allgemein Strom
+
+0,05 €
+
+Wasser inkl. Abwasser
+
+0,35 €
+
+Schornsteinr.
+
+0,03 €
+
+1,03 €
+
+Versicherung
+
+0,18 €
+
+Aufzug
+
+0,18 €
+
+Straßenreinigung
+
+0,03 €
+
+Angaben pro m² pro Monat
+
+Müllbeseitigung
+
+0,17 €
+
+Hauswart
+
+0,15 €
+
+Antenne/Kabel
+
+0,13 €
+
+Sonstige
+
+0,04 €
